@@ -1,0 +1,29 @@
+*{
+    font-family: 'Mansalva', cursive;
+}
+
+h1{
+    color: blue;
+    font-size: 40px;
+}
+
+.inspiracao{
+    text-decoration: none;
+    font-size: 15pt;
+    color: blueviolet;
+    margin-bottom: 10px;
+
+}
+
+label{
+    font-size: 15pt;
+}
+
+input{
+    height: 50px;
+}
+
+.mindset{
+    height: 300px;
+    margin: 20px 20px 20px 20px;
+}
